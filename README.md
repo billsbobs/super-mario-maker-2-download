@@ -1,4 +1,4 @@
-# super-mario-maker-2-download-1
+# super-mario-maker-2-download
 Super Mario Maker 2 Download. Password is just "mario". Use this command on linux to rebuild the files, but run the command from the folder: 
 
 cat part_* > "mario_maker_2_xci_password_is_mario.7z" 
